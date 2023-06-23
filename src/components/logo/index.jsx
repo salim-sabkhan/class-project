@@ -31,7 +31,7 @@ export function Logo(props) {
       <LogoImg>
         <img src={GreenlandLogoImg} alt="Greenland logo" />
       </LogoImg>
-      <LogoText>Greenland</LogoText>
+      <LogoText>Logo</LogoText>
     </LogoWrapper>
   );
 }

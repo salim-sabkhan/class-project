@@ -59,10 +59,10 @@ export function MobileNavLinks(props) {
             <Link href="#">How it works</Link>
           </LinkItem>
           <LinkItem>
-            <Link href="#">Explore</Link>
+            <Link href="#">Research</Link>
           </LinkItem>
           <LinkItem>
-            <Link href="#">Impact</Link>
+            <Link href="#">Results</Link>
           </LinkItem>
           <Marginer />
           <Accessibility />
